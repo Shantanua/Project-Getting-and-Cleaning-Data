@@ -1,0 +1,17 @@
+Datasets:
+xte: table X_test
+yte: table Y_train
+subte: table subject_text
+xtr: table X_train
+ytr: table Y_train
+ytr1: Modified table Y_train
+subtr: table subject_tain
+features: table features
+features1: modified table features
+xt: merged dataset
+xt1, xt2, xt3, xt4, xt5: modified version of xt dataset using match function
+xt6: tidy dataset
+
+
+
+
